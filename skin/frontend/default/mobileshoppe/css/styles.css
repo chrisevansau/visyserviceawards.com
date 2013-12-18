@@ -380,7 +380,7 @@ a:focus        { outline:0; color: #d90202; }
 h1, h2, h3, h4, h5, h6 { padding: 0; margin: 0 0 18px; clear: both; }
 
 h1									{ font-size: 30px;  line-height: 1; font-family:'Karla', tahoma, arial, sans-serif; font-weight:normal;} /* 36/36 */
-h2									{ font-size: 24px; line-height: 1.285714286; font-family: 'Karla', tahoma, arial, sans-serif; color:#749E4D; font-weight:normal;}/* 36/28 */
+h2									{ font-size: 24px; line-height: 1.285714286; font-family: 'Karla', tahoma, arial, sans-serif; color:#00006b; font-weight:normal;}/* 36/28 */
 h3									{ font-size: 18px; line-height: 1.636363636; font-family: 'Karla', tahoma, arial, sans-serif; font-weight:normal; }/* 36/22 */
 h4									{ font-size: 16px; line-height: 1; font-family: 'Karla', tahoma, arial, sans-serif; font-weight:normal; }/* 18/18 */
 h5									{ font-size: 15px;  line-height: 1.2; font-family: 'Karla', tahoma, arial, sans-serif;  font-weight:normal;}/* 18/36 */

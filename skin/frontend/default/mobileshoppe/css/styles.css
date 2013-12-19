@@ -862,7 +862,7 @@ input.input-text, select, textarea {
     float: left;
     padding:8px 12px;
 }
-#nav li.active a { color:#9e9ece; }
+#nav li.active a { color:#00006b; }
 #nav a { color: #FFFFFF;
     float: left;
     font-weight: bold;
